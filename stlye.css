@@ -31,9 +31,13 @@ p{
 }
 .mid .container{
     border: solid,2px;
-    background-color: rgb(231, 232, 232);
+    background-color: rgb(14, 14, 15);
     font-size: 25px;
-    color: blue;
+    background-image: url(img/f_bg.jpeg);
+    background-size: 100%;
+    color: rgb(22, 22, 23);
+    font-weight: 1000;
+    text-transform: capitalize;
 }
 /* .menu{
     border: solid,2px;
@@ -46,8 +50,7 @@ p{
 form{
     text-transform: capitalize;
     border: 2px,dashed;
-    background-image: url(img/f_bg.jpeg);
-    background-size: 100%;
+    
 }
 .footers
 
