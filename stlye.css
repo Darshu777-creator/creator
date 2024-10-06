@@ -10,7 +10,7 @@
 }
 body
 {
-    background: 'red';
+    background: url(img/bg.jpg);
     background-size: 100%;
 }
 p{
