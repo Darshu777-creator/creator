@@ -1,0 +1,69 @@
+.tit
+{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+    color: rgb(220, 148, 141);
+    font-size: 100px;    
+    text-transform: capitalize;
+    
+}
+body
+{
+    background: url(/img/bg.jpg);
+    background-size: 100%;
+}
+p{
+    text-align: center; 
+}
+.headers a
+{
+    text-align: center;   
+    font-size: 30px;
+    text-transform: capitalize;    
+
+}
+.headers .container {
+    background-color: blanchedalmond;
+    padding: 0 0 10px 10px;
+    border: solid,2px;
+    text-align: center;
+}
+.mid .container{
+    border: solid,2px;
+    background-color: rgb(231, 232, 232);
+    font-size: 25px;
+    color: blue;
+}
+/* .menu{
+    border: solid,2px;
+} */
+.active{
+    background: red;
+    border: solid,2px;
+    
+}
+form{
+    text-transform: capitalize;
+    border: 2px,dashed;
+}
+.footers
+
+{
+    background-color: blanchedalmond;
+    padding: 0 0 10px 10px;
+    border: solid,2px;
+    text-align: center;
+    text-align: center;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+    color: rgb(220, 148, 141);
+    font-size: 30px;    
+    text-transform: capitalize;
+}
+.tnk
+{
+    padding-left: 10%;
+    text-transform: capitalize;
+}
